@@ -1,7 +1,7 @@
 ## Salve! 👍
 ### Bem vindo ao meu perfil.
 Meu nome é **Breno**, sou *SysAdmin* 🐧 e estudante 📓 de desenvolvimento. ♨️ <br>
-Uso código no dia a dia para ajudar a solucionar meus problemas mais facilmente.
+Uso código 👨‍💻 no dia a dia para ajudar a solucionar 🛠️ meus problemas mais facilmente.
 
   <h3> Tecnologias que possuo experiência: </h2>
 <div style="display: inline_block"><br>
