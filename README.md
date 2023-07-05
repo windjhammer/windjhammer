@@ -1,6 +1,6 @@
 ## Salve! 👍
 ### Bem vindo ao meu perfil.
-Meu nome é **Breno**, sou *SysAdmin* 🐧 e estudante 📓 de desenvolvimento. ♨️
+Meu nome é **Breno**, sou *SysAdmin* 🐧 e estudante 📓 de desenvolvimento. ♨️ <br>
 Tenho experiência com ferramentas de suporte e infraestrutura e com ferramentas de monitoramento.
 
   <h3> Tecnologias que possuo experiência: </h2>
