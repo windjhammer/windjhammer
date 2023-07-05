@@ -1,6 +1,7 @@
 ## Salve! 👍
 Bem vindo ao meu perfil.
-Meu nome é Breno e sou um estudante de desenvolvimento.
+Meu nome é Breno, sou SysAdmin e estudante de desenvolvimento.
+Tenho experiência com ferramentas de suporte e infraestrutura e com ferramentas de monitoramento.
 <div align="center">
   <a href="https://github.com/windjhammer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=windjhammer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
