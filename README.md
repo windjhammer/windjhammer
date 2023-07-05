@@ -1,12 +1,8 @@
 ## Salve! 👍
-Bem vindo ao meu perfil.
-Meu nome é Breno, sou SysAdmin e estudante de desenvolvimento.
+### Bem vindo ao meu perfil.
+Meu nome é **Breno**, sou *SysAdmin* 🐧 e estudante 📓 de desenvolvimento. ♨️
 Tenho experiência com ferramentas de suporte e infraestrutura e com ferramentas de monitoramento.
-<div align="center">
-  <a href="https://github.com/windjhammer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=windjhammer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windjhammer&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
   <h3> Tecnologias que possuo experiência: </h2>
 <div style="display: inline_block"><br>
 <img align="right" alt="Ansible" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
